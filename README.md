@@ -2,7 +2,7 @@
 
 🚀 Personal portfolio website showcasing my skills, projects, and engineering mindset as a **BTech CSE (3rd Year) student at IIIT Nagpur**.
 
-🔗 **Live Website:** https://soumil-verma.github.io/
+🔗 **Live Website:** https://soumil-verma.github.io/      
   
 ---
 
